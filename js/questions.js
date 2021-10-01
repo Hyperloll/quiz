@@ -58,13 +58,13 @@ let questions = [
     
   {
      numb: 6,
-     question: "coolkdi",
-     answer: "Option 1",
+     question: "What is the lcm of 7 and 8",
+     answer: "56",
      options: [
-       "Option 1",
-       "option 2",
-       "option 3",
-       "option 4"
+       "666",
+       "87",
+       "65",
+       "56"
      ]
    },
   // you can uncomment the below codes and make duplicate as more as you want to add question
